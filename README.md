@@ -32,7 +32,7 @@ The following packages will be used in this workshop:
   Command-line installation instructions: pip install scikit-allel pandas numpy matplotlib seaborn scikit-learn scipy pysam pyliftover
 ## Required Dataset 
   * Attached to the GitHub repository
-  * Tarball of this Tutorial's dataset and the GRCh38 FASTA can be downloaded in the first cell of the Tutorial.ipynb
+  * Tarball of this Tutorial's dataset and the GRCh38 FASTA can be downloaded in the first cell of the Tutorial_Lesson.ipynb
 
 ## Outline
 ## Workshop Structure
