@@ -1,0 +1,159 @@
+NA18646	Han Chinese
+HG02178	Chinese Dai
+HG04063	Indian Telugu
+NA20901	Gujarati
+HG03046	Gambian
+HG00457	Southern Han Chinese
+HG00599	Southern Han Chinese
+HG01699	Iberian
+NA18517	Yoruba
+HG03934	Bengali
+NA19138	Yoruba
+HG03105	Esan
+HG02854	Gambian
+NA20845	Gujarati
+NA18988	Japanese
+HG02137	Kinh
+HG01522	Iberian
+NA21122	Gujarati
+HG03354	Esan
+HG03478	Mende
+NA19786	Mexican
+NA20346	African American
+HG03352	Esan
+HG03074	Mende
+HG00689	Southern Han Chinese
+HG02298	Peruvian
+HG03267	Esan
+HG04161	Bengali
+NA12717	European Utahn
+NA18591	Han Chinese
+NA20872	Gujarati
+HG01308	Puerto Rican
+HG03953	Sri Lankan Tamil
+NA18597	Han Chinese
+HG02332	Afro-Caribbean
+NA12006	European Utahn
+HG00114	British
+NA12716	European Utahn
+NA19652	Mexican
+HG03097	Mende
+NA18638	Han Chinese
+NA20881	Gujarati
+HG03058	Mende
+HG03082	Mende
+HG04209	Indian Telugu
+NA18544	Han Chinese
+HG03073	Mende
+HG00445	Southern Han Chinese
+NA21089	Gujarati
+HG04185	Bengali
+NA18630	Han Chinese
+HG02804	Gambian
+HG03729	Indian Telugu
+NA19377	Luhnya
+HG03436	Mende
+NA18948	Japanese
+HG01253	Colombian
+HG02787	Punjabi
+HG00381	Finnish
+HG01631	Iberian
+HG02009	Afro-Caribbean
+HG02661	Punjabi
+NA19072	Japanese
+HG00173	Finnish
+NA20508	Toscani
+NA20850	Gujarati
+NA19393	Luhnya
+HG03297	Esan
+HG00449	Southern Han Chinese
+HG02771	Gambian
+NA20822	Toscani
+HG00566	Southern Han Chinese
+NA20867	Gujarati
+HG01512	Iberian
+HG03511	Esan
+HG02390	Chinese Dai
+HG01680	Iberian
+NA18941	Japanese
+NA18962	Japanese
+NA18561	Han Chinese
+HG01537	Iberian
+HG01072	Puerto Rican
+HG01536	Iberian
+NA19324	Luhnya
+NA19782	Mexican
+HG01971	Peruvian
+HG03730	Indian Telugu
+HG00246	British
+HG01113	Colombian
+HG02651	Punjabi
+NA19670	Mexican
+HG02380	Chinese Dai
+NA20542	Toscani
+HG01613	Iberian
+HG00121	British
+HG04107	Sri Lankan Tamil
+HG02301	Peruvian
+HG03977	Indian Telugu
+HG01351	Colombian
+HG03009	Bengali
+HG02977	Esan
+HG01080	Puerto Rican
+NA20514	Toscani
+HG01700	Iberian
+HG02040	Kinh
+NA19118	Yoruba
+HG01932	Peruvian
+NA18639	Han Chinese
+NA07347	European Utahn
+NA20809	Toscani
+HG01130	Colombian
+NA20799	Toscani
+NA18567	Han Chinese
+NA19023	Luhnya
+HG02508	Afro-Caribbean
+HG02731	Punjabi
+HG03829	Bengali
+HG02322	Afro-Caribbean
+HG02645	Gambian
+HG01804	Chinese Dai
+HG03397	Mende
+HG04094	Indian Telugu
+HG02697	Punjabi
+NA18865	Yoruba
+HG03133	Esan
+HG00109	British
+HG01124	Colombian
+NA20875	Gujarati
+NA21102	Gujarati
+HG02780	Punjabi
+HG04146	Bengali
+NA18560	Han Chinese
+NA12347	European Utahn
+HG01933	Peruvian
+NA21133	Gujarati
+NA20539	Toscani
+NA20357	African American
+HG00583	Southern Han Chinese
+NA20864	Gujarati
+HG01070	Puerto Rican
+HG00258	British
+HG00145	British
+HG01188	Puerto Rican
+NA18923	Yoruba
+NA20803	Toscani
+NA20535	Toscani
+NA18963	Japanese
+HG01985	Afro-Caribbean
+NA18634	Han Chinese
+HG03479	Mende
+NA19777	Mexican
+HG00315	Finnish
+HG01095	Puerto Rican
+NA18510	Yoruba
+HG01982	Peruvian
+NA19087	Japanese
+NA18874	Yoruba
+NA19449	Luhnya
+NA18574	Han Chinese
